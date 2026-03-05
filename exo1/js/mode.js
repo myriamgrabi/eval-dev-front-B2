@@ -1,5 +1,5 @@
 // Sélectionnez le bouton
-const button = document.querySelector('#myButton');
+const button = document.querySelector('#Button');
 
 // Ajoutez lors de l'évènement "click" au bouton
 button.addEventListener('click', () => {
